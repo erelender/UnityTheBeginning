@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: f95c3ec3499276741b408b77c0c39768
+timeCreated: 1546609408
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cuber: {fileID: 1097505868213874, guid: d48474c3f42d8a74bb00fec091213196, type: 2}
+  - numberer: {fileID: 1709843443616052, guid: fd1b4874e4dc76546bf4c15e430306e5, type: 2}
+  - blackMaterial: {fileID: 2100000, guid: 63ba73b5fa150e24c88eae5437a59bf8, type: 2}
+  - whiteMaterial: {fileID: 2100000, guid: 78513c46ae980de40a3c1f611af6b856, type: 2}
+  - num0: {fileID: 2100000, guid: 2eae4d104f8727141b8a2112053614a1, type: 2}
+  - num1: {fileID: 2100000, guid: 11012fd5dbb69d049b2271f2ac52e357, type: 2}
+  - num2: {fileID: 2100000, guid: 5b759780060e794468f44498a589c3c9, type: 2}
+  - num3: {fileID: 2100000, guid: 5fd2263a31c068f4d8f5a7ec0b093da6, type: 2}
+  - num4: {fileID: 2100000, guid: 5d939e0692236834dba73958accde78c, type: 2}
+  - num5: {fileID: 2100000, guid: edba2a05a7f613345aef0b10868746ff, type: 2}
+  - num6: {fileID: 2100000, guid: 7756d608b20ff2d4da2cd343cec2d116, type: 2}
+  - num7: {fileID: 2100000, guid: bcbb9de8268e58547bfec6b4a54780a3, type: 2}
+  - num8: {fileID: 2100000, guid: 62ff45a64f1f28f4cbff37077b48199f, type: 2}
+  - num9: {fileID: 2100000, guid: b3e2fe76791997f40b7743792af64a71, type: 2}
+  - num10: {fileID: 2100000, guid: 5b1233e62d374de4bba1f9309c204982, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
